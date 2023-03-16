@@ -19,6 +19,9 @@ Kauhanen, L., Wan Mohd Yunus, W., Lempinen, L., Peltonen, K., Gyllenberg, D., Mi
 Wan Mohd Yunus, W., Kauhanen, L., Sourander, A., Brown, J., Peltonen, K., Mishina, K., Lempinen, L., Bastola, K., Gilbert, S., & Gyllenberg, D. (2022). Registered psychiatric service use, self-harm and suicides of children and young people aged 0-24 before and during the COVID-19 pandemic: a systematic review. Child and adolescent psychiatry and mental health, 16(1), 15. https://doi.org/10.1186/s13034-022-00452-3
 - Systematisk översikt från vår forskningsgrupp om förändringar i användning av psykiatriska tjänster under covid-pandemin. 
 
+Gyllenberg D. Psykiska problem bland barn och unga under covid-19-pandemin. Finska Läkaresällskapets Handlingar. Årgång 182 Nr 1 (2023). https://fls.fi/wp-content/uploads/2023/01/12_222_Handlingar.pdf
+- Översikt på svenska om psykiska problem bland barn och unga under covid-19-pandemin.
+
 Thorisdottir, I. E., Asgeirsdottir, B. B., Kristjansson, A. L., Valdimarsdottir, H. B., Jonsdottir Tolgyes, E. M., Sigfusson, J., Allegrante, J. P., Sigfusdottir, I. D., & Halldorsdottir, T. (2021). Depressive symptoms, mental wellbeing, and substance use among adolescents before and during the COVID-19 pandemic in Iceland: a longitudinal, population-based study. The lancet. Psychiatry, 8(8), 663–672. https://doi.org/10.1016/S2215-0366(21)00156-5 
 - Isländsk studie som jämförde psykiatriska symptom före covid-pandemin och under pandemin.
 
@@ -29,6 +32,8 @@ Sourander, A., Lempinen, L., & Brunstein Klomek, A. (2016). Changes in Mental He
 - Studie som beskriver datat om 8-åriga barn före covid-pandemin.
 
 Gyllenberg, D., Marttila, M., Sund, R., Jokiranta-Olkoniemi, E., Sourander, A., Gissler, M., & Ristikari, T. (2018). Temporal changes in the incidence of treated psychiatric and neurodevelopmental disorders during adolescence: an analysis of two national Finnish birth cohorts. The Lancet Psychiatry, 5(3), 227–236. https://doi.org/10.1016/S2215-0366(18)30038-5
+
+Durbeej, N., Sörman, K., Norén Selinus, E., Lundström, S., Lichtenstein, P., Hellner, C., & Halldner, L. (2019). Trends in childhood and adolescent internalizing symptoms: results from Swedish population based twin cohorts. BMC psychology, 7(1), 50. https://doi.org/10.1186/s40359-019-0326-8
 
 Collishaw S. Annual research review: Secular trends in child and adolescent mental health. J Child Psychol Psychiatry. 2015;56(3):370-93., http://doi.org/10.1111/jcpp.12372 
 - Systematisk översikt om förändringar i psykiska problem före pandemin.
