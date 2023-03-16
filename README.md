@@ -1,6 +1,4 @@
-# presentation
-
-# Nordforsk-inlägg Oslo 2022-11-10
+# BNPS 2023-03-20
 
 Tack för att du lyssnade
 
