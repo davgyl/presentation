@@ -48,7 +48,7 @@ Potrebny, T., Wiium, N., & Lundegård, M. M. (2017). Temporal trends in adolesce
 - Meta-analys om förändringar i symptom före pandemin
 
 Polanczyk, G. V., Willcutt, E. G., Salum, G. A., Kieling, C., & Rohde, L. A. (2014). ADHD prevalence estimates across three decades: an updated systematic review and meta-regression analysis. International journal of epidemiology, 43(2), 434–442. https://doi.org/10.1093/ije/dyt261
-- - Meta-analys om förändringar i ADHD före pandemin
+- Meta-analys om förändringar i ADHD före pandemin
 
 Gyllenberg, Sourander, Marttunen. Psykiatrisen hoidon tarve. Kirjassa: Lastenpsykiatria ja nuorisopsykiatria. Duodecim, 2017  
 - Bokkapitel
