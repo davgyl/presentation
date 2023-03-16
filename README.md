@@ -10,7 +10,7 @@ Tack för att du lyssnade på [Barnneuropsykiatriska Sektionens utbildningsdagar
 
 ## Referenser
 
-Gyllenberg D, Bastola K, Wan Mohd Yunus WMA, Mishina K, Liukko E, Kääriälä A, Sourander A. Comparison of new psychiatric diagnoses among Finnish children and adolescents before and during the COVID-19 pandemic: A nationwide register-based study. PLoS Med. 2023 Feb 27;20(2):e1004072. doi: 10.1371/journal.pmed.1004072. Epub ahead of print. 
+GGyllenberg, D., Bastola, K., Wan Mohd Yunus, W. M. A., Mishina, K., Liukko, E., Kääriälä, A., & Sourander, A. (2023). Comparison of new psychiatric diagnoses among Finnish children and adolescents before and during the COVID-19 pandemic: A nationwide register-based study. PLoS medicine, 20(2), e1004072. Advance online publication. https://doi.org/10.1371/journal.pmed.1004072
 - Artikel om nya diagnoser under covid-pandemin.
 
 Kauhanen, L., Wan Mohd Yunus, W., Lempinen, L., Peltonen, K., Gyllenberg, D., Mishina, K., Gilbert, S., Bastola, K., Brown, J., & Sourander, A. (2022). A systematic review of the mental health changes of children and young people before and during the COVID-19 pandemic. European child & adolescent psychiatry, 1–19. Advance online publication. https://doi.org/10.1007/s00787-022-02060-0
