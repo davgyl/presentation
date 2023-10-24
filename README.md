@@ -1,10 +1,10 @@
-# BNPS 2023-03-20
+# Presentation
 
-Tack för att du lyssnade på [Barnneuropsykiatriska Sektionens utbildningsdagar 2023](https://www.bnps2023.se/program/). 
+Tack för att du lyssnade. 
 
 ## Kontaktinformation
 
-- e-post: david.gyllenberg at utu.fi
+- e-post: david.gyllenberg at hus.fi
 - Twitter: [@DavidGyllenberg](https://twitter.com/DavidGyllenberg)
 - LinkedIn: [davidgyllenberg](https://www.linkedin.com/in/davidgyllenberg)
 
